@@ -1,0 +1,3 @@
+com\mycompany\wordcount\WC_Runner.class
+com\mycompany\wordcount\WC_Mapper.class
+com\mycompany\wordcount\WC_Reducer.class

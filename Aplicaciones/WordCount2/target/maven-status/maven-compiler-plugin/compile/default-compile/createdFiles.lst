@@ -1,0 +1,3 @@
+com\mycompany\wordcount2\WordCount2.class
+com\mycompany\wordcount2\WordCount2$IntSumReducer.class
+com\mycompany\wordcount2\WordCount2$TokenizerMapper.class
